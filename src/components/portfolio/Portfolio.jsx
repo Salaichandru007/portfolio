@@ -26,14 +26,14 @@ const Portfolio = () => {
 					All
 				</span>
 				<span className={activeFilter === 1 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("Embedded System"); setActiveFilter(1) }}>
-					Embedded System
+					AI, Embedded System & IOT
 				</span>
-				<span className={activeFilter === 2 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("Machine Learning"); setActiveFilter(2) }}>
-					Machine Learning
+				<span className={activeFilter === 2 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("Web Tech"); setActiveFilter(2) }}>
+					Web Tech
 				</span>
-				<span className={activeFilter === 3 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("Flutter"); setActiveFilter(3) }}>
+				{/* <span className={activeFilter === 3 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("Flutter"); setActiveFilter(3) }}>
 					Flutter
-				</span>
+				</span> */}
 				{/* <span className={activeFilter === 4 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("React"); setActiveFilter(4) }}>
 					React
 				</span> */}

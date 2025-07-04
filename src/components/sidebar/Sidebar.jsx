@@ -8,12 +8,12 @@ import {
     RiUser3Line,
     RiBriefcase2Line,
     RiStackLine,
-    RiComputerLine,
     RiChat3Line,
     RiMoonLine,
     RiSunLine,
     RiMenu2Line,
-    RiAwardLine,
+    // RiAwardLine,
+    // RiComputerLine,
     // RiDraftLine,
     // RiFileList3Line,
 } from "react-icons/ri";
@@ -44,11 +44,11 @@ const Sidebar = (props) => {
                                 </a>
                             </li>
 
-                            <li className="nav__item">
+                            {/* <li className="nav__item">
                                 <a href="#skills" className="nav__link">
                                     <RiComputerLine />
                                 </a>
-                            </li>
+                            </li> */}
 
                             <li className="nav__item">
                                 <a href="#experience" className="nav__link">
@@ -57,7 +57,7 @@ const Sidebar = (props) => {
                             </li>
 
                             <li className="nav__item">
-                                <a href="#projects" className="nav__link">
+                                <a href="#portfolio" className="nav__link">
                                     <RiStackLine />
                                 </a>
                             </li>
@@ -68,11 +68,11 @@ const Sidebar = (props) => {
                                 </a>
                             </li> */}
 
-                            <li className="nav__item">
+                            {/* <li className="nav__item">
                                 <a href="#certificates" className="nav__link">
                                     <RiAwardLine />
                                 </a>
-                            </li>
+                            </li> */}
 
                             <li className="nav__item">
                                 <a href="#contact" className="nav__link">

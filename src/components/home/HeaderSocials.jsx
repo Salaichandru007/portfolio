@@ -8,9 +8,9 @@ const HeaderSocials = () => {
                 <FaGithub />
             </a>
 
-            <a href='https://instagram.com/smart.chandru007/' className='home__social-link' target='_blank' rel='noreferrer'>
+            {/* <a href='https://instagram.com/smart.chandru007/' className='home__social-link' target='_blank' rel='noreferrer'>
                 <FaInstagram/>
-            </a>
+            </a> */}
 
             <a href='https://www.linkedin.com/in/salaichandru007/' className='home__social-link' target='_blank' rel='noreferrer'>
                 <FaLinkedinIn />

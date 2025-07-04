@@ -21,23 +21,16 @@ const About = () => {
                     <div className="about__info">
                         <p className="about__description">
                            Hello! I'm Chandiraguru T., and I'm based in Tamil Nadu, India. 
-                           I am currently pursuing a BE degree in Electronics and Communication Engineering. 
-                           I am passionate about technology and am on a journey to become a skilled Flutter developer.
-                           Fast forward to today, and I am excited to be growing and improving every day as I work on real-world projects and internships.
-                           My current focus is to enhance my skills in Flutter development, contributing to impactful projects and expanding my portfolio.
+                           I am a passionate and detail-oriented Full Stack Developer with a strong foundation in Java, Spring Boot, Hibernate, and modern front-end technologies like React.js, HTML, CSS, and JavaScript (ES6+).
+                           I enjoy building efficient, user-friendly web applications and continuously learning new tools and frameworks. My goal is to contribute high-quality solutions to real-world problems while growing as a technology professional.
                         </p>
                         <ul className="about__list">
-                            <li>Flutter & Dart</li>
-                            <li>Firebase and SQL</li>
-                            <li>Python</li>
-                            <li>Git</li>
+                            <li>Java</li>
+                            <li>SQL</li>
+                            <li>Web Tech</li>
+                            <li>React.Js</li>
+                            <li>J2EE</li>
                             <li>RESTful API's</li>
-                            <li>Java & Kotlin</li>
-                            <li>Arduino</li>
-                            <li>Robotics</li>
-                            <li>Cisco</li>
-                            <li>AI & ML</li>
-
                         </ul>
                         <button className="btn" onClick={downloadResume}>Donwload Resume</button>
                     </div>

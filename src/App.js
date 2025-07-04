@@ -3,10 +3,10 @@ import './App.css';
 import Sidebar from './components/sidebar/Sidebar';
 import Home from './components/home/Home';
 import About from './components/about/About';
-import Skills from './components/skills/Skills';
 import Experience from './components/experience/Experience';
 import Portfolio from './components/portfolio/Portfolio';
 // import Testimonials from './components/testimonials/Testimonials';
+// import Skills from './components/skills/Skills';
 // import Blog from './components/blog/Blog';
 import Contact from './components/contact/Contact';
 import Certificates from './components/certificate/Certificates';
@@ -28,7 +28,7 @@ function App() {
             <main className='main'>
                 <Home />
                 <About />
-                <Skills />
+                {/* <Skills /> */}
                 <Experience />
                 <Portfolio />
                 {/* <Testimonials /> */}
