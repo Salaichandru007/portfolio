@@ -31,11 +31,6 @@ $ yarn start
 
 ```
 
-## Contact
-
-LinkedIn: www.linkedin.com/in/salaichandru007
-Email: salaichandru007@gmail.com
-
 ## License
 
 This project is licensed under the GNU GPL 3.0 License. See the LICENSE file for details.

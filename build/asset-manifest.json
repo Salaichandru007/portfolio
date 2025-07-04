@@ -1,39 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fc5a8eb0.css",
-    "main.js": "/portfolio/static/js/main.dc0c64c8.js",
-    "static/media/node_red.png": "/portfolio/static/media/node_red.35cb3bab5c97edcd2e7f.png",
-    "static/media/ml_workshop.png": "/portfolio/static/media/ml_workshop.99db7641e1c0d170772c.png",
-    "static/media/technical_quiz.png": "/portfolio/static/media/technical_quiz.dbb7707f2f5471cdac05.png",
-    "static/media/industry.png": "/portfolio/static/media/industry.b199deee7ddf8247d855.png",
-    "static/media/grt_expo.png": "/portfolio/static/media/grt_expo.df36bdec386b8f435a99.png",
-    "static/media/workshop_vlsi.png": "/portfolio/static/media/workshop_vlsi.c8cd2edc710479b4d143.png",
-    "static/media/ml_pantech.png": "/portfolio/static/media/ml_pantech.9c635d0062e6fe668b63.png",
-    "static/media/codtech.png": "/portfolio/static/media/codtech.d68b6d1f5f9f220721e0.png",
-    "static/media/edunet.png": "/portfolio/static/media/edunet.0ba02e5011fb8a5cd2ea.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.786d7e757984972aa7f1.pdf",
-    "static/media/Quiz_app.png": "/portfolio/static/media/Quiz_app.11bd008e262f8bceba46.png",
-    "static/media/polenza_internship.jpg": "/portfolio/static/media/polenza_internship.3a190024f8cf6046450e.jpg",
-    "static/media/ip_fire_detection.png": "/portfolio/static/media/ip_fire_detection.1858d397450d6b9f1e93.png",
+    "main.css": "/portfolio/static/css/main.78ad7f14.css",
+    "main.js": "/portfolio/static/js/main.1c80068a.js",
+    "static/media/avatar-1.png": "/portfolio/static/media/avatar-1.d7398dd827fc6eb02c20.png",
+    "static/media/light_theme.png": "/portfolio/static/media/light_theme.38bf5729c34f2ac88bd3.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.9e2323d86e1b54f45d05.pdf",
     "static/media/git_udemy.jpg": "/portfolio/static/media/git_udemy.59cd6d46e452aeb821fd.jpg",
     "static/media/avatar-2.png": "/portfolio/static/media/avatar-2.fb5ac5fb00e6efb9cb22.png",
-    "static/media/house_price_prediction.png": "/portfolio/static/media/house_price_prediction.9c16a067667a6d996952.png",
-    "static/media/Stop_watch.png": "/portfolio/static/media/Stop_watch.b4044fac70f91f35be03.png",
-    "static/media/To_do.png": "/portfolio/static/media/To_do.b59c272b4bd3444d4a25.png",
-    "static/media/avatar-1.png": "/portfolio/static/media/avatar-1.5adaedacc55ff809d83c.png",
-    "static/media/service-3.svg": "/portfolio/static/media/service-3.5ce3e21e961c980ca809977cf695357b.svg",
-    "static/media/service-2.svg": "/portfolio/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
-    "static/media/service-1.svg": "/portfolio/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
+    "static/media/harrdware-output.jpeg": "/portfolio/static/media/harrdware-output.9a8fbf9172b82a55620a.jpeg",
     "static/media/logo.svg": "/portfolio/static/media/logo.bdf08059527dc09e6d4f42d7c9d78b22.svg",
     "static/media/dots-bg-dark.svg": "/portfolio/static/media/dots-bg-dark.3a79e4a2778386f14af1.svg",
     "static/media/dots-bg.svg": "/portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "static/media/light-logo.svg": "/portfolio/static/media/light-logo.533c20f31bf65c1c1d8c3a6d407f5304.svg",
     "index.html": "/portfolio/index.html",
-    "main.fc5a8eb0.css.map": "/portfolio/static/css/main.fc5a8eb0.css.map",
-    "main.dc0c64c8.js.map": "/portfolio/static/js/main.dc0c64c8.js.map"
+    "main.78ad7f14.css.map": "/portfolio/static/css/main.78ad7f14.css.map",
+    "main.1c80068a.js.map": "/portfolio/static/js/main.1c80068a.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc5a8eb0.css",
-    "static/js/main.dc0c64c8.js"
+    "static/css/main.78ad7f14.css",
+    "static/js/main.1c80068a.js"
   ]
 }
